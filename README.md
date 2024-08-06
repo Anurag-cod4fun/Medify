@@ -6,9 +6,12 @@
 
 Medify is an all-in-one medical solution app that brings together seven disease detection modules under one platform. The app provides detection and diagnosis for Covid, Brain Tumor, Breast Cancer, Alzheimer, Diabetes, Pneumonia, and Heart Disease.
 
-## Demo
+## Images
 
-![Medify Demo](./static/medify_demo.gif)
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/alz.png)
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/breast.png)
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/covid.png)
+![screenshot](https://github.com/Anurag-cod4fun/Images/blob/master/covid2.png)
 
 ## Technologies Used
 
